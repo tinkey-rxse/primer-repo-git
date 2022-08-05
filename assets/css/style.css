@@ -1,0 +1,15 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Raleway', sans-serif;
+
+}
+
+.green{
+    background-color:#28a745;
+    height: 4rem;
+}
+
+.logo{
+    width: 12rem;
+    height: 3rem;
+}
